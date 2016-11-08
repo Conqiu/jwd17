@@ -1,3 +1,4 @@
-Neki tekst.IZMENA
+Neki tekst.IZMENA. NOVA IZMENA.
+
 
 
